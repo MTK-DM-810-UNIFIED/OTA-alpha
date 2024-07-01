@@ -1,0 +1,9 @@
+Build type: Monthly
+Device: Redmi Note 11T 5G (everpal)
+Device maintainer: weaponmasterjax
+
+====================
+     07-02-2024
+====================
+
+* initial AlphaDroid stable build
