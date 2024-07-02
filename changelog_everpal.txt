@@ -7,3 +7,4 @@ Device maintainer: weaponmasterjax
 ====================
 
 * initial AlphaDroid stable build
+* fixed a issue where the system runs too fast on MTK devices
