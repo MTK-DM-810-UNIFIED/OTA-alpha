@@ -3,8 +3,16 @@ Device: Redmi Note 11T 5G (everpal)
 Device maintainer: weaponmasterjax
 
 ====================
-     07-02-2024
+     07-03-2024
 ====================
 
 * initial AlphaDroid stable build
 * fixed a issue where the system runs too fast on MTK devices
+* fixed neural networks (live captions)
+* fixed UI performance
+* improved security
+* fixed audio disortation on speaker
+* implemented dolby
+* added face unlock
+* added power off alarm
+* Known Issues 1.Opal Front cam(use GCAM and assgin custom cam id to fix) 2.NFC
