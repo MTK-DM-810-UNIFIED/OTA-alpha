@@ -16,3 +16,5 @@ Device maintainer: weaponmasterjax
 * added face unlock
 * added power off alarm
 * Known Issues 1.Opal Front cam(use GCAM and assgin custom cam id to fix) 2.NFC
+* signed build
+* MIUI cam added
