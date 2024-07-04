@@ -1,6 +1,17 @@
-Build type: Monthly
+Build type: Monthly/Gapps
 Device: Redmi Note 11T 5G (everpal)
 Device maintainer: weaponmasterjax
+
+
+====================
+     07-04-2024
+====================
+
+* Support MIUI camera, removed Aperture Science Portable Android Camera APP.
+* Play integrity maybe passing on some devices.
+* Fixed audio distort.
+* Various performace and battery life improvements.
+* Support OTA
 
 ====================
      07-03-2024
